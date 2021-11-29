@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jetpreeya
 - 👀 I’m interested in Web Developer. 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git, Node.js, React and Database. 
-- 💞️ I’m looking to collaborate on Web Developer.
+- 💞️ I’m looking to collaborate on full-stack web developer.
 - 📫 How to reach me Jetpreeya.Norkaew@gmail.com and https://www.linkedin.com/in/jetpreeya-yawichai-42009b144/
 
 <!---
