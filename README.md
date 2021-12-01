@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jetpreeya
+- 👋 Hi, I’m @Jetpreeya 
 - 👀 I’m interested in Web Developer. 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git, Node.js, React and Database. 
 - 💞️ I’m looking to collaborate on full-stack web developer.
