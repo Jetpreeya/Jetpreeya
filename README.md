@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer. 
 - 🌱 I’m currently learning HTML5, CSS, JavaScript, Git, Node.Js, React and Database from FooCoding Malmö Sweden. 
 - 💞️ I’m looking to collaborate on full-stack web developer.
-- 📫 How to reach me Jetpreeya.Norkaew@gmail.com and https://www.linkedin.com/in/jetpreeya-yawichai-42009b144/
+- 📫 How to reach me Jetpreeya.Norkaew@gmail.com and https://www.linkedin.com/in/jetpreeya-yawichai/
 
 <!---
 Jetpreeya/Jetpreeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
