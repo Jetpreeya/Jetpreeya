@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jetpreeya.
+- 👋 Hi, I’m Jetpreeya.
 - 👀 I’m interested in Web Developer. 
 - 🌱 I’m currently learning HTML5, CSS, JavaScript, Git , Node.Js, React and Database from FooCoding Malmö Sweden.(Intensive Course)
 - 💞️ I’m looking to collaborate on front-end web developer.
