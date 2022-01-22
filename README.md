@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jetpreeya.
+- 👋 Hi, I’m Jetpreeya. You can call me Jet. 
 - 👀 I’m interested in Web Developer, Data Analyst. 
 - 🌱 I’ve learn HTML5, CSS, JavaScript, Git , Node.Js, React and Database MySQL from FooCoding Malmö Sweden.(Intensive Course) https://www.foocoding.org/
 - 💞️ I’m looking to collaborate on front-end web developer.
