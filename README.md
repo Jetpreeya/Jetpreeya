@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer, Data Analyst. 
 - 🌱 I’ve learn HTML5, CSS, JavaScript, Git , Node.Js, React and Database MySQL from FooCoding Malmö Sweden.(Intensive Course) https://www.foocoding.org/
 - 💞️ I’m looking to collaborate on Data Analyst or Frontend Web Developer.
-- 📫 How to reach me Jetpreeya.Y@gmail.com and https://www.linkedin.com/in/jetpreeya-yawichai/
+- 📫 How to reach me Jetpreeya.y@gmail.com and https://www.linkedin.com/in/jetpreeya-yawichai/
 
 <!---
 Jetpreeya/Jetpreeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
