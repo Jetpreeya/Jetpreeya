@@ -8,4 +8,5 @@
 Jetpreeya/Jetpreeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Jetpreeya Yawichai CV.pdf](https://github.com/Jetpreeya/Jetpreeya/files/8310282/Jetpreeya.Yawichai.CV.pdf)
+
+![Jetpreeya_CV](https://user-images.githubusercontent.com/84719740/159141668-406d2329-611a-4a0d-9eef-47f9761c548c.jpg)
