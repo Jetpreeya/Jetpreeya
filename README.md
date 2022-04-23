@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jetpreeya. You can call me Jet. 
 - 👀 I’m interested in Web Developer, Data Analyst.
-- 🌱 I learn C# .NET from Lexicon Malmö. https://www.lexicon.se/Businesscenters/Lexicon-Malmo/
+- 🌱 I learn C# .NET from Lexicon Malmö Sweden.
 - 🌱 I learn JavaScript, Git , Node.Js, React, Database MySQL, HTML5, and CSS from FooCoding Malmö Sweden.(Intensive Course) https://www.foocoding.org/
 - 💞️ I’m looking to collaborate on Data Analyst or Frontend Web Developer.
 - 📫 How to reach me Jetpreeya.y@gmail.com and https://www.linkedin.com/in/jetpreeya-yawichai/
