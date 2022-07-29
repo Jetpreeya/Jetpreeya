@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jetpreeya. You can call me Jet. 
-- 👀 I’m interested in Web Developer, Data Analyst.
+- 👀 I’m interested in Web Developer.
 - 🌱 I learn C# .NET , Azure from Lexicon Malmö Sweden.
 - 🍀 I learn JavaScript, Git , Node.Js, React, Database MySQL, HTML5, and CSS from FooCoding Malmö Sweden.(Intensive Course)
 - 📃 Portfolio: https://62e39b9994f2fc618e2d2bf9--jazzy-faun-925a03.netlify.app/
